@@ -4,3 +4,4 @@ git add New.java
 git commit -m
 git push origin master
 git status
+git commit -a -m "your message“
