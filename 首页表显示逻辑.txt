@@ -12,3 +12,5 @@ gitk --all
 
 git branch testing
 git checkout testing
+git merge testing
+git branch -d testing 
