@@ -7,3 +7,8 @@ git status
 git commit -a -m "your message“
 git diff
 gitk --all
+
+
+
+git branch testing
+git checkout testing
